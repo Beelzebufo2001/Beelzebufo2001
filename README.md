@@ -23,7 +23,8 @@ Desktop game built in C# using WinForms.
 Currently looking for a junior internship / part-time developer position.
 
 ⚡ Fun fact: I can plug my nose shut with my mouth 🌱 
-⚡ Fun fact: In the past, everytime I started learnig new coding language My first program was: Beep Beep I am a sheep"
+
+⚡ Less fun of a fact: In the past, everytime I started learnig new coding language My first program was: "Beep Beep I am a sheep"
 <!--
 **Beelzebufo2001/Beelzebufo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
